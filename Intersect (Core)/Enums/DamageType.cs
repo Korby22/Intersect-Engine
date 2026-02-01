@@ -7,4 +7,12 @@ public enum DamageType
     Magic,
 
     True,
+
+    Holy,
+
+    Fire,
+
+    Frost,
+
+    Shadow,
 }
